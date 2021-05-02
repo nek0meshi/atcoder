@@ -1,0 +1,5 @@
+input_line = input()
+plus_line = '+' * (len(input_line) + 2)
+print(plus_line)
+print('+' + input_line + '+')
+print(plus_line)
